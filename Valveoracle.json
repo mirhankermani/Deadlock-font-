@@ -9,7 +9,7 @@
     }
   ],
   "variables": {
-    "font-primary": "ValveOracle",
-    "font-display": "ValveOracle"
+    "font-primary": "ValveOracle, sans-serif",
+    "font-display": "ValveOracle, sans-serif"
   }
 }
