@@ -1,0 +1,15 @@
+{
+  "name": "Valve Oracle Font",
+  "fonts": [
+    {
+      "name": "ValveOracle",
+      "src": "url('https://github.com/mirhankermani/Deadlock-font-/raw/refs/heads/main/valveoracle-medium.ttf')",
+      "weight": "500",
+      "style": "normal"
+    }
+  ],
+  "variables": {
+    "font-primary": "ValveOracle",
+    "font-display": "ValveOracle"
+  }
+}
